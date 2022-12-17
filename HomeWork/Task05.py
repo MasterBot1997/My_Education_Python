@@ -1,10 +1,12 @@
 # 5. Напишите программу, которая принимает на вход координаты 
 # двух точек и находит расстояние между ними в 2D пространстве. 
 # https://ru.onlinemschool.com/math/library/analytic_geometry/point_point_length/
-
+print("Введите значения координат точки А(X1, Y1)")
 x1 = int(input("Введите значение X1: "))
-x2 = int(input("Введите значение X2: "))
 y1 = int(input("Введите значение Y1: "))
+
+print("Введите значения координат точки B(X2, Y2)")
+x2 = int(input("Введите значение X2: "))
 y2 = int(input("Введите значение Y2: "))
 
 from math import sqrt
