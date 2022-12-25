@@ -10,9 +10,7 @@ count = 0
 # i = 0
 # while i <= size_n:
 #     m = int(m / 10)
-#     print(m)
 #     z = m % 10
-#     print(z)
 #     count = count + z
 #     print(count)
 #     i+=1 
