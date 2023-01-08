@@ -24,18 +24,3 @@ number = int(input('Введите десятичное число: '))
 my_list = binary_number(number)
 my_list.reverse()
 print(my_list)
-
-# k = 11
-# while k:
-#     if k >= 2:
-#         n = k % 2
-#         k = k - int(k/2)
-#         print(n)
-#     else:
-#         print(k)
-        
-
-
-# k = 11
-# k = int(k/2)
-# print(k)
