@@ -3,7 +3,6 @@
 # полученное от пользователя.
 
 # from random import randint
-# from random import sample
 
 # n = []
 # k = int(input("Введте размер количество элементов списка: "))
