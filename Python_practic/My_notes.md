@@ -56,3 +56,9 @@
  1. Аннотация типов
 
   - https://semakin.dev/2020/06/type_hints/
+
+2. Туториалы по решению задач в Python
+
+    На этом сайте можно проверить пошагово любой код, что бы понять правильно ли он работает.
+  
+  - http://www.pythontutor.com/visualize.html#mode=edit
