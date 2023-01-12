@@ -62,3 +62,8 @@
     На этом сайте можно проверить пошагово любой код, что бы понять правильно ли он работает.
   
   - http://www.pythontutor.com/visualize.html#mode=edit
+
+  - https://autogear.ru/article/371/831/chislo-prostyih-deliteley-chisla-skolko-deliteley-imeet-prostoe-chislo/
+  - https://calc.ws/simple-num-mnoj.php?num=650 
+
+  - replit.com //
