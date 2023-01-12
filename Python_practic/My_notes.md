@@ -50,3 +50,9 @@
 4. Pull-request
  - https://youtu.be/ubnDtAbi7no
  - https://youtu.be/DWGxuNUH658
+
+ ### Python
+
+ 1. Аннотация типов
+
+  - https://semakin.dev/2020/06/type_hints/
