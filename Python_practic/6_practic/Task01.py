@@ -51,3 +51,5 @@ def cut(ls):
 
 user_ls = input("...").split()
 print(calculator(cut(user_ls)))
+
+# eval(-2 + ( 4 / 2 - 7 + 8 * 7 ) * 3) - eval() это кфункция которая делает то то мы реализовали в задаче
