@@ -8,5 +8,6 @@ def sim():
 
 if __name__ == "__main__":
     print("i'm a file")
+    sim()
 else:
     print("i'm a module")
