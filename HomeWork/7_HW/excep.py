@@ -28,17 +28,4 @@ def check_number_zero(num):
             num = input("Enter number 2: ")
         else:
             return num
-
-
-# def check_number_zero_comp(num_1, num_2):
-#     while True:
-#         if num_1 == "0" and num_2 == "0":
-#             press = input("\nОба числа равны 0. Выберете число которое введете заново"
-#                           "\n1 - number 3"
-#                           "\n2 - number 4")
-#         match press:
-#             case "1":
-#                 num_1 = input("Enter number 3: ")
-#             case "2":
-#                 num_2 = input("Enter number 4: ")
         
