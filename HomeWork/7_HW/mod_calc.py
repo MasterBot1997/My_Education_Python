@@ -10,12 +10,17 @@ def mul(a, b):
     return a * b
 
 
-def div(a, b):
-    return a / b
+def div(a, b, c):
+    if c == '/':
+        return round(a / b, 2)
+    elif c == '//':
+        return round(a // b, 2)
+    else:
+        return round(a % b, 2)
 
 
 def pow(a):
-    return a * 0.5
+    return round(a ** 0.5, 2)
 
 
 def sqrt(a, b):
