@@ -9,13 +9,15 @@ import csv
 # - Удалить запись,
 # - Экспорт/Импорт
 # - Выход
-
+temp_num = [0]
 
 def menu():
     logging.info("Программа запущенна.")
     print("Welcome to menu!")
     while True:
         id_last = last_id()
+        if id_last < temp_num[0]:
+            id_last = temp_num[0]
         # Выбор пользователя какой действие он хочет выполнить
         num_type = input("\nEnter\n"
                          "1 - Показать записи\n"
@@ -36,7 +38,8 @@ def menu():
             case "4":
                 break
             case "5":
-                break
+                temp_num.insert(0, id_last)
+                delite_data()
             case "6":
                 break
             case "0":
