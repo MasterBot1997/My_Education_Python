@@ -25,3 +25,19 @@ def check_key(filter, num):
                 num = input("Введите еще раз: ")
                 print()
 
+# Проверка ключа id для удаления строки с информацией
+def check_delite_key(a):
+    while True:
+        if a.isdigit():
+            if int(a) != 0:
+                return a
+            else:
+                logging.warning("Ошбка: id = 0")
+                print("\nid не должен быть равен 0!")
+                a = input("Введите еще раз: ")
+            print()
+        else:
+            logging.warning("Введен неверный  id")
+            print("\nВы ввели некоректный id!")
+            a = input("Введите еще раз: ")
+            print()
