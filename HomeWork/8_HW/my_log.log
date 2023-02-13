@@ -7,3 +7,168 @@
 12-02-2023 18:07:16 - user_interface - INFO - menu - Завершение программы.
 12-02-2023 18:07:37 - main - INFO - <module> - Start program
 12-02-2023 18:07:39 - user_interface - INFO - menu - Завершение программы.
+12-02-2023 21:28:36 - main - INFO - <module> - Start program
+12-02-2023 21:28:36 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:30:13 - main - INFO - <module> - Start program
+12-02-2023 21:30:13 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:30:40 - main - INFO - <module> - Start program
+12-02-2023 21:30:40 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:30:51 - user_interface - INFO - menu - Завершение программы.
+12-02-2023 21:32:26 - main - INFO - <module> - Start program
+12-02-2023 21:32:26 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:35:41 - main - INFO - <module> - Start program
+12-02-2023 21:35:41 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:37:36 - main - INFO - <module> - Start program
+12-02-2023 21:37:36 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:37:54 - main - INFO - <module> - Start program
+12-02-2023 21:37:54 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:38:00 - user_interface - WARNING - menu - Пользователь ввел некоректное значение!
+12-02-2023 21:38:02 - user_interface - INFO - menu - Завершение программы.
+12-02-2023 21:43:58 - main - INFO - <module> - Start program
+12-02-2023 21:43:58 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:44:43 - user_interface - WARNING - menu - Пользователь ввел некоректное значение!
+12-02-2023 21:44:49 - user_interface - INFO - menu - Завершение программы.
+12-02-2023 21:44:54 - main - INFO - <module> - Start program
+12-02-2023 21:44:54 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:45:13 - user_interface - INFO - menu - Завершение программы.
+12-02-2023 21:45:27 - main - INFO - <module> - Start program
+12-02-2023 21:45:27 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 21:45:30 - user_interface - INFO - menu - Завершение программы.
+12-02-2023 22:07:23 - main - INFO - <module> - Start program
+12-02-2023 22:07:23 - user_interface - INFO - menu - Программа запущенна.
+12-02-2023 22:08:32 - user_interface - INFO - menu - Завершение программы.
+12-02-2023 22:09:23 - main - INFO - <module> - Start program
+12-02-2023 22:09:23 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 15:42:06 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 15:53:22 - main - INFO - <module> - Start program
+13-02-2023 15:53:22 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 15:55:51 - user_interface - WARNING - menu - Пользователь ввел некоректное значение!
+13-02-2023 15:55:55 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 16:00:14 - main - INFO - <module> - Start program
+13-02-2023 16:00:14 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 16:00:49 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 16:01:19 - main - INFO - <module> - Start program
+13-02-2023 16:01:19 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 16:01:34 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 16:02:21 - main - INFO - <module> - Start program
+13-02-2023 16:02:21 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 16:02:32 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 16:02:39 - main - INFO - <module> - Start program
+13-02-2023 16:02:39 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 16:04:36 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 16:53:28 - check_list - WARNING - check_key - Неверно введен id!
+13-02-2023 16:54:08 - check_list - WARNING - check_key - Неверно введен id!
+13-02-2023 16:57:11 - check_list - WARNING - check_key - Неверно введен id!
+13-02-2023 16:57:37 - check_list - WARNING - check_key - Неверно введен id!
+13-02-2023 16:58:31 - check_list - WARNING - check_key - Неверно введен id!
+13-02-2023 16:59:01 - check_list - WARNING - check_key - Неверно введен id!
+13-02-2023 17:00:15 - check_list - WARNING - check_key - Введен несуществующий id
+13-02-2023 17:01:07 - check_list - WARNING - check_key - Введен несуществующий id
+13-02-2023 17:02:50 - check_list - WARNING - check_key - Введен несуществующий id
+13-02-2023 17:03:27 - main - INFO - <module> - Start program
+13-02-2023 17:03:27 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:03:27 - check_list - INFO - check_last_id - Последний id - 6
+13-02-2023 17:03:29 - check_list - INFO - check_last_id - Последний id - 6
+13-02-2023 17:03:40 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:03:48 - main - INFO - <module> - Start program
+13-02-2023 17:03:48 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:03:48 - check_list - INFO - check_last_id - Последний id - 6
+13-02-2023 17:03:49 - check_list - INFO - check_last_id - Последний id - 6
+13-02-2023 17:04:43 - check_list - INFO - check_last_id - Последний id - 6
+13-02-2023 17:05:27 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:05:48 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:26:51 - main - INFO - <module> - Start program
+13-02-2023 17:26:51 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:26:51 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:27:29 - main - INFO - <module> - Start program
+13-02-2023 17:27:29 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:27:29 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:38:37 - main - INFO - <module> - Start program
+13-02-2023 17:38:37 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:38:37 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:38:45 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:38:53 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:38:59 - main - INFO - <module> - Start program
+13-02-2023 17:38:59 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:38:59 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:39:06 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:41:09 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:41:11 - main - INFO - <module> - Start program
+13-02-2023 17:41:11 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:41:11 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:41:16 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:41:21 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:46:36 - main - INFO - <module> - Start program
+13-02-2023 17:46:36 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:46:36 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:46:47 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:46:51 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:49:27 - main - INFO - <module> - Start program
+13-02-2023 17:49:27 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:49:27 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:49:39 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:49:48 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:50:07 - main - INFO - <module> - Start program
+13-02-2023 17:50:07 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:50:07 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:50:15 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:50:36 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:50:41 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 17:52:22 - main - INFO - <module> - Start program
+13-02-2023 17:52:22 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 17:52:22 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:52:33 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:52:55 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:53:05 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:53:27 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 17:53:37 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 18:03:25 - main - INFO - <module> - Start program
+13-02-2023 18:03:25 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 18:03:25 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 18:03:49 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 18:04:00 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:04:05 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:04:07 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:04:11 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 18:05:14 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:16 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:16 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:17 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:17 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:17 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:17 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:18 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:18 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:18 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:18 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:19 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:19 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:19 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:19 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:20 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:20 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:20 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:21 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:21 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:21 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:21 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:22 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:22 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:22 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:22 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:23 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:23 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:23 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:23 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:23 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:29 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:33 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:36 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:05:38 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 18:07:55 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 18:07:58 - main - INFO - <module> - Start program
+13-02-2023 18:07:58 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 18:07:58 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 18:08:12 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 18:08:17 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 18:08:24 - user_interface - INFO - menu - Завершение программы.
