@@ -39,3 +39,21 @@ def prin_dict(filter, key):
         for row in reader:
             if row[filter] == key:
                 print(row['id'],row['Name'], row['Last_name'],row['Start_work'], row['job_title'], row['number_phone'])
+
+# Модуль удаления запси
+def delite_data():
+    print("id не должен быть равен 0!")
+    key = input("Введите id по которому хотите удалит запись: ")
+    print()
+    temp = []
+    key = check_delite_key(key)
+    with open('data_people.csv', 'r') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            temp.append(row)
+        with open('data_people.csv', 'w', newline='') as t:
+            for i in range(len(temp)):
+                if key != temp[i][0]:
+                    writer = csv.writer(t)
+                    writer.writerow(temp[i])
+    logging.info(f"Удалена информация с id {key}")
