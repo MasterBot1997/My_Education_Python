@@ -1,5 +1,6 @@
 from logg import logging
-
+from mod_file import *
+import csv
 # Меню:
 # - Показать все записи,
 # - Найти запись,
@@ -11,8 +12,10 @@ from logg import logging
 
 
 def menu():
-    print("Welcome to menu!\n")
+    logging.info("Программа запущенна.")
+    print("Welcome to menu!")
     while True:
+        id_last = last_id()
         num_type = input("\nEnter\n"
                          "1 - Показать записи\n"
                          "2 - Найти записи\n"
@@ -23,11 +26,11 @@ def menu():
                          "0 - Завершение программы\n")
         match num_type:
             case "1":
-                break
+                print_file()
             case "2":
                 break
             case "3":
-                break
+                new_entry(id_last)
             case "4":
                 break
             case "5":
@@ -42,3 +45,5 @@ def menu():
                 logging.warning("Пользователь ввел некоректное значение!")
                 print("Такого варанта нет, попробуйте еще раз!")
                 continue
+
+
