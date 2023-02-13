@@ -172,3 +172,75 @@
 13-02-2023 18:08:12 - check_list - WARNING - check_key - Введен несуществующий параметр
 13-02-2023 18:08:17 - check_list - INFO - check_last_id - Последний id - 7
 13-02-2023 18:08:24 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 19:08:52 - check_list - WARNING - check_delite_key - Введен неверный  id или равный 0
+13-02-2023 19:08:54 - check_list - WARNING - check_delite_key - Введен неверный  id или равный 0
+13-02-2023 19:11:26 - check_list - WARNING - check_delite_key - Введен неверный  id
+13-02-2023 19:11:29 - check_list - WARNING - check_delite_key - Ошбка: id = 0
+13-02-2023 19:13:42 - check_list - WARNING - check_delite_key - Введен неверный  id
+13-02-2023 19:13:45 - check_list - WARNING - check_delite_key - Ошбка: id = 0
+13-02-2023 19:13:51 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:13:56 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:14:07 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:14:15 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:14:28 - mod_file - INFO - delite_data - Удалена информация с id 5
+13-02-2023 19:14:54 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:14:58 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:15:01 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:15:04 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:15:12 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:15:15 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:18:02 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:19:07 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:19:10 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:19:12 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:19:15 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:19:17 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:19:19 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:19:25 - check_list - WARNING - check_delite_key - Ошбка: id = 0
+13-02-2023 19:19:26 - check_list - WARNING - check_delite_key - Введен неверный  id
+13-02-2023 19:19:29 - mod_file - INFO - delite_data - Удалена информация с id 3
+13-02-2023 19:19:30 - mod_file - INFO - delite_data - Удалена информация с id 4
+13-02-2023 19:19:32 - mod_file - INFO - delite_data - Удалена информация с id 1
+13-02-2023 19:19:34 - mod_file - INFO - delite_data - Удалена информация с id 5
+13-02-2023 19:19:37 - mod_file - INFO - delite_data - Удалена информация с id 6
+13-02-2023 19:19:38 - mod_file - INFO - delite_data - Удалена информация с id 7
+13-02-2023 19:20:58 - main - INFO - <module> - Start program
+13-02-2023 19:20:58 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 19:20:58 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:21:19 - mod_file - INFO - delite_data - Удалена информация с id 1
+13-02-2023 19:21:19 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:21:22 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:21:30 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 19:21:33 - check_list - WARNING - check_key - Введен несуществующий параметр
+13-02-2023 19:21:34 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:22:40 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 19:22:59 - mod_file - INFO - delite_data - Удалена информация с id 8
+13-02-2023 19:22:59 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:23:33 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 19:25:38 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 19:25:42 - main - INFO - <module> - Start program
+13-02-2023 19:25:42 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 19:25:42 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 19:26:25 - mod_file - INFO - delite_data - Удалена информация с id 2
+13-02-2023 19:26:25 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 19:26:28 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 19:38:42 - main - INFO - <module> - Start program
+13-02-2023 19:38:42 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 19:38:42 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 19:39:47 - mod_file - INFO - delite_data - Удалена информация с id 8
+13-02-2023 19:39:47 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:40:08 - main - INFO - <module> - Start program
+13-02-2023 19:40:08 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 19:40:08 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:40:13 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 19:40:16 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 19:41:01 - main - INFO - <module> - Start program
+13-02-2023 19:41:01 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 19:41:01 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 19:41:10 - mod_file - INFO - delite_data - Удалена информация с id 8
+13-02-2023 19:41:10 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:41:14 - check_list - INFO - check_last_id - Последний id - 9
+13-02-2023 19:41:20 - mod_file - INFO - delite_data - Удалена информация с id 9
+13-02-2023 19:41:20 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 19:41:26 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 19:41:29 - user_interface - INFO - menu - Завершение программы.
