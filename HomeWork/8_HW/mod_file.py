@@ -32,10 +32,10 @@ def last_id():
         return(b)
 
 # функция вывода данных сотрудника с определенным id, реализовано через словарь
-def prin_dict(key):
-    key = check_key(key)
+def prin_dict(filter, key):
+    key = check_key(filter, key)
     with open('data_people.csv') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            if row['id'] == key:
+            if row[filter] == key:
                 print(row['id'],row['Name'], row['Last_name'],row['Start_work'], row['job_title'], row['number_phone'])
