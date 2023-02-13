@@ -6,8 +6,7 @@ import csv
 # - Найти запись,
 # - Добавить запись,
 # - Редактировать запись,
-# - Удалить запись,
-# - Экспорт/Импорт
+# - Удалить запись
 # - Выход
 temp_num = [0]
 
@@ -25,7 +24,6 @@ def menu():
                          "3 - Добавить записи\n"
                          "4 - Редактировать записи\n"
                          "5 - Удалить записи\n"
-                         "6 - Экспорт/Ипорт\n"
                          "0 - Завершение программы\n")
         match num_type:
             case "1":
@@ -36,12 +34,10 @@ def menu():
             case "3":
                 new_entry(id_last)
             case "4":
-                break
+                red_menu()
             case "5":
                 temp_num.insert(0, id_last)
                 delite_data()
-            case "6":
-                break
             case "0":
                 logging.info("Завершение программы.")
                 print("\nСпасибо, что пользуетесm нашим приложением!\nХорошего вам дня!")
@@ -56,11 +52,12 @@ def prin_dict_menu():
     while True:
         name_key = input("Ввдеите по какому параетру вы хотите вывести иформацию: \n"
                         "1 - id\n"
-                        "2 - Name\n"
-                        "3 - Last_name\n"
-                        "4 - Start_work\n"
-                        "5 - job_title\n"
-                        "6 - number_phone\n"
+                        "2 - Имя\n"
+                        "3 - Фамилия\n"
+                        "4 - Начало работы\n"
+                        "5 - Должность\n"
+                        "6 - Отдел работы\n"
+                        "7 - Номер телефона\n"
                         "0 - Вернуться в меню\n")
         match name_key:
             case '1':
@@ -94,6 +91,12 @@ def prin_dict_menu():
                 prin_dict(filter_user, key_user)
                 break
             case '6':
+                key_user = input("Введите номер отдел работы сотрудник: ")
+                print()
+                filter_user = "devision_job"
+                prin_dict(filter_user, key_user)
+                break
+            case '7':
                 key_user = input("Введите номер телефона сотрудника: ")
                 print()
                 filter_user = "number_phone"
@@ -102,8 +105,52 @@ def prin_dict_menu():
             case '0':
                 logging.info("Возвращение в меню")
                 print("\nВы возвращаетесь в меню\n")
-                menu()
+                break
             case _:
                 logging.warning("Пользователь ввел некоректное значение!")
                 print("Такого варанта нет, попробуйте еще раз!")
                 continue
+
+def red_menu():
+        while True:
+            name_red = input("Ввдеите по какому параетру вы хотите изменить информацию: \n"
+                            "1 - Имя\n"
+                            "2 - Фамлия\n"
+                            "3 - Начало работы\n"
+                            "4 - Должность\n"
+                            "5 - Отдел работы"
+                            "6 - Номер телефона\n"
+                            "0 - Вернуться в меню\n")
+            match name_red:
+                case '1':
+                    name_red = 1
+                    redactor_data(name_red)
+                    break
+                case '2':
+                    name_red = 2
+                    redactor_data(name_red)
+                    break
+                case '3':
+                    name_red = 3
+                    redactor_data(name_red)
+                    break
+                case '4':
+                    name_red = 4
+                    redactor_data(name_red)
+                    break
+                case '5':
+                    name_red = 5
+                    redactor_data(name_red)
+                    break
+                case '6':
+                    name_red = 6
+                    redactor_data(name_red)
+                    break
+                case '0':
+                    logging.info("Возвращение в меню")
+                    print("\nВы возвращаетесь в меню\n")
+                    break
+                case _:
+                    logging.warning("Пользователь ввел некоректное значение!")
+                    print("Такого варанта нет, попробуйте еще раз!")
+                    continue
