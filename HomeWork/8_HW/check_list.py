@@ -12,19 +12,16 @@ def check_last_id(num):
 
 # Проверка корректности ввода ключа, для полчучения данных о 
 # пользователе через id
-def check_key(num):
+def check_key(filter, num):
     while True:
         with open('data_people.csv') as f:
             reader = csv.DictReader(f)
-            if num.isdigit():
-                for row in reader:
-                    if row['id'] == num:
-                        return num
-                else:
-                    logging.warning("Введен несуществующий id")
-                print("\n'Такого id не существует!'")
-                num = input("Введите id еще раз: ")
+            for row in reader:
+                if row[filter] == num:
+                    return num
             else:
-                logging.warning("Неверно введен id!")
-                print("\n'Неверно введен id!'")
-                num = input("Введите id еще раз: ")
+                logging.warning("Введен несуществующий параметр")
+                print("\n'Такого параметра не существует!'")
+                num = input("Введите еще раз: ")
+                print()
+
