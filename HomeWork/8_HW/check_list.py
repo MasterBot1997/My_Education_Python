@@ -14,7 +14,7 @@ def check_last_id(num):
 # пользователе через id
 def check_key(filter, num):
     while True:
-        with open('data_people.csv') as f:
+        with open('data_people.csv', 'r',encoding='utf8') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 if row[filter] == num:
