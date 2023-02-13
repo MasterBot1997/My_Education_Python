@@ -244,3 +244,191 @@
 13-02-2023 19:41:20 - check_list - INFO - check_last_id - Последний id - 7
 13-02-2023 19:41:26 - check_list - INFO - check_last_id - Последний id - 10
 13-02-2023 19:41:29 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:33:04 - main - INFO - <module> - Start program
+13-02-2023 20:33:04 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:33:04 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:33:34 - mod_file - INFO - redactor_data - Редактирование информации.
+13-02-2023 20:33:34 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:33:42 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:35:40 - main - INFO - <module> - Start program
+13-02-2023 20:35:40 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:35:40 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:35:55 - user_interface - INFO - red_menu - Возвращение в меню
+13-02-2023 20:35:55 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:35:55 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:37:01 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:37:02 - user_interface - INFO - red_menu - Возвращение в меню
+13-02-2023 20:37:02 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:37:02 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:37:09 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:37:13 - user_interface - INFO - red_menu - Возвращение в меню
+13-02-2023 20:37:13 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:37:13 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:37:15 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:37:16 - user_interface - WARNING - red_menu - Пользователь ввел некоректное значение!
+13-02-2023 20:38:00 - main - INFO - <module> - Start program
+13-02-2023 20:38:00 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:38:00 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:38:04 - user_interface - INFO - prin_dict_menu - Возвращение в меню
+13-02-2023 20:38:04 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:38:04 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:38:05 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:38:39 - main - INFO - <module> - Start program
+13-02-2023 20:38:39 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:38:39 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:38:41 - user_interface - INFO - prin_dict_menu - Возвращение в меню
+13-02-2023 20:38:41 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:38:41 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:38:42 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:38:42 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:38:43 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:38:51 - main - INFO - <module> - Start program
+13-02-2023 20:38:51 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:38:51 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:39:02 - main - INFO - <module> - Start program
+13-02-2023 20:39:02 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:39:02 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:39:06 - user_interface - INFO - prin_dict_menu - Возвращение в меню
+13-02-2023 20:39:06 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:39:06 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:39:10 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:39:10 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:39:18 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:39:50 - main - INFO - <module> - Start program
+13-02-2023 20:39:50 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:39:50 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:39:54 - user_interface - INFO - prin_dict_menu - Возвращение в меню
+13-02-2023 20:39:54 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:39:55 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:39:56 - main - INFO - <module> - Start program
+13-02-2023 20:39:56 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:39:56 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:40:01 - user_interface - INFO - red_menu - Возвращение в меню
+13-02-2023 20:40:01 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:40:03 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:40:05 - main - INFO - <module> - Start program
+13-02-2023 20:40:05 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:40:05 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:40:32 - mod_file - INFO - redactor_data - Редактирование информации.
+13-02-2023 20:40:32 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:41:13 - mod_file - INFO - redactor_data - Редактирование информации.
+13-02-2023 20:41:13 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:41:24 - mod_file - INFO - redactor_data - Редактирование информации.
+13-02-2023 20:41:24 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 20:41:59 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 20:48:47 - main - INFO - <module> - Start program
+13-02-2023 20:48:47 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:48:47 - check_list - INFO - check_last_id - Это первая запись данных о пользователе id - 1
+13-02-2023 20:59:26 - main - INFO - <module> - Start program
+13-02-2023 20:59:26 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:59:26 - check_list - INFO - check_last_id - Это первая запись данных о пользователе id - 1
+13-02-2023 20:59:58 - main - INFO - <module> - Start program
+13-02-2023 20:59:58 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 20:59:58 - check_list - INFO - check_last_id - Это первая запись данных о пользователе id - 1
+13-02-2023 21:08:56 - main - INFO - <module> - Start program
+13-02-2023 21:08:56 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:08:56 - check_list - INFO - check_last_id - Это первая запись данных о пользователе id - 1
+13-02-2023 21:17:02 - main - INFO - <module> - Start program
+13-02-2023 21:17:02 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:18:21 - main - INFO - <module> - Start program
+13-02-2023 21:18:21 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:18:43 - main - INFO - <module> - Start program
+13-02-2023 21:18:43 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:19:50 - main - INFO - <module> - Start program
+13-02-2023 21:19:50 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:19:50 - check_list - INFO - check_last_id - Последний id - 2
+13-02-2023 21:20:26 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:20:37 - main - INFO - <module> - Start program
+13-02-2023 21:20:37 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:20:37 - check_list - INFO - check_last_id - Последний id - 1
+13-02-2023 21:22:03 - check_list - INFO - check_last_id - Последний id - 2
+13-02-2023 21:22:06 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:22:28 - main - INFO - <module> - Start program
+13-02-2023 21:22:28 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:22:28 - check_list - INFO - check_last_id - Последний id - 1
+13-02-2023 21:22:32 - check_list - INFO - check_last_id - Последний id - 2
+13-02-2023 21:24:02 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:24:06 - main - INFO - <module> - Start program
+13-02-2023 21:24:06 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:24:06 - check_list - INFO - check_last_id - Последний id - 2
+13-02-2023 21:25:30 - check_list - INFO - check_last_id - Последний id - 3
+13-02-2023 21:26:07 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:26:20 - main - INFO - <module> - Start program
+13-02-2023 21:26:20 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:26:20 - check_list - INFO - check_last_id - Последний id - 3
+13-02-2023 21:26:23 - check_list - INFO - check_last_id - Последний id - 4
+13-02-2023 21:26:32 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:27:07 - main - INFO - <module> - Start program
+13-02-2023 21:27:07 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:27:07 - check_list - INFO - check_last_id - Это первая запись данных о пользователе id - 1
+13-02-2023 21:27:11 - check_list - INFO - check_last_id - Последний id - 1
+13-02-2023 21:27:30 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:27:32 - main - INFO - <module> - Start program
+13-02-2023 21:27:32 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:27:32 - check_list - INFO - check_last_id - Последний id - 2
+13-02-2023 21:28:22 - check_list - INFO - check_last_id - Последний id - 3
+13-02-2023 21:47:01 - main - INFO - <module> - Start program
+13-02-2023 21:47:01 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:47:01 - check_list - INFO - check_last_id - Последний id - 3
+13-02-2023 21:48:05 - check_list - INFO - check_last_id - Последний id - 4
+13-02-2023 21:48:26 - mod_file - INFO - delite_data - Удалена информация с id 4
+13-02-2023 21:48:26 - check_list - INFO - check_last_id - Последний id - 3
+13-02-2023 21:48:39 - check_list - INFO - check_last_id - Последний id - 5
+13-02-2023 21:48:58 - check_list - INFO - check_last_id - Последний id - 6
+13-02-2023 21:49:13 - check_list - INFO - check_last_id - Последний id - 7
+13-02-2023 21:49:24 - check_list - INFO - check_last_id - Последний id - 8
+13-02-2023 21:49:38 - check_list - INFO - check_last_id - Последний id - 9
+13-02-2023 21:49:46 - check_list - INFO - check_last_id - Последний id - 10
+13-02-2023 21:49:54 - check_list - INFO - check_last_id - Последний id - 11
+13-02-2023 21:50:02 - check_list - INFO - check_last_id - Последний id - 12
+13-02-2023 21:50:08 - check_list - INFO - check_last_id - Последний id - 13
+13-02-2023 21:50:19 - check_list - INFO - check_last_id - Последний id - 14
+13-02-2023 21:50:26 - check_list - INFO - check_last_id - Последний id - 15
+13-02-2023 21:50:33 - check_list - INFO - check_last_id - Последний id - 16
+13-02-2023 21:50:40 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:53:40 - main - INFO - <module> - Start program
+13-02-2023 21:53:40 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:53:40 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:53:58 - main - INFO - <module> - Start program
+13-02-2023 21:53:58 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:53:58 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:54:16 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:56:12 - main - INFO - <module> - Start program
+13-02-2023 21:56:12 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:56:12 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:56:23 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:58:08 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:58:10 - main - INFO - <module> - Start program
+13-02-2023 21:58:10 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:58:10 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:58:17 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:58:32 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 21:58:43 - main - INFO - <module> - Start program
+13-02-2023 21:58:43 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:58:43 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:59:58 - main - INFO - <module> - Start program
+13-02-2023 21:59:58 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 21:59:58 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 21:59:59 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:00:22 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:00:48 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 22:02:33 - main - INFO - <module> - Start program
+13-02-2023 22:02:33 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 22:02:33 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:02:47 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:06:15 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 22:06:17 - main - INFO - <module> - Start program
+13-02-2023 22:06:17 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 22:06:17 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:06:21 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:06:41 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 22:06:42 - main - INFO - <module> - Start program
+13-02-2023 22:06:42 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 22:06:42 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:06:46 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:07:31 - user_interface - INFO - menu - Завершение программы.
+13-02-2023 22:07:32 - main - INFO - <module> - Start program
+13-02-2023 22:07:32 - user_interface - INFO - menu - Программа запущенна.
+13-02-2023 22:07:32 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:07:34 - check_list - INFO - check_last_id - Последний id - 17
+13-02-2023 22:07:43 - user_interface - INFO - menu - Завершение программы.
