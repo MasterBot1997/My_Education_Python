@@ -16,6 +16,7 @@ def menu():
     print("Welcome to menu!")
     while True:
         id_last = last_id()
+        # Выбор пользователя какой действие он хочет выполнить
         num_type = input("\nEnter\n"
                          "1 - Показать записи\n"
                          "2 - Найти записи\n"
@@ -28,7 +29,9 @@ def menu():
             case "1":
                 print_file()
             case "2":
-                break
+                # Пользователь вводит id что бы проверить какая есть информация по этому id
+                key_id = input("\nВведите номе id сотрудника: ")
+                prin_dict(key_id)
             case "3":
                 new_entry(id_last)
             case "4":
