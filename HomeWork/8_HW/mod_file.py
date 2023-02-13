@@ -30,3 +30,12 @@ def last_id():
         c = g[0]
         b = check_last_id(c)
         return(b)
+
+# функция вывода данных сотрудника с определенным id, реализовано через словарь
+def prin_dict(key):
+    key = check_key(key)
+    with open('data_people.csv') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            if row['id'] == key:
+                print(row['id'],row['Name'], row['Last_name'],row['Start_work'], row['job_title'], row['number_phone'])
