@@ -11,6 +11,7 @@ app.add_handler(CommandHandler("sum", sum))
 app.add_handler(CommandHandler("sub", sub))
 app.add_handler(CommandHandler("mult", mult))
 app.add_handler(CommandHandler("div", div))
+app.add_handler(CommandHandler("sqrt", sqrt))
 
 print('server start')
 app.run_polling()
