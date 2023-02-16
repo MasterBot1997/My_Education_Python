@@ -36,6 +36,7 @@ async def sum(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     msg = update.message.text
     print(msg)
     items = msg.split() 
+    print(items)
     if check_data_user(items) == True:
         if len(items) == 3:
             x = check_data_type(items[1])
@@ -76,7 +77,7 @@ async def mult(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
         if len(items) == 3:
             x = check_data_type(items[1])
             y = check_data_type(items[2])
-            await update.message.reply_text(f'{x} * {y} = {x*y}')
+            await update.message.reply_text(f'{x} * {y} = {round(x*y, 4)}')
         else:
             x = complex(check_data_type(items[1]), check_data_type(items[2]))
             y = complex(check_data_type(items[3]), check_data_type(items[4]))
@@ -84,6 +85,51 @@ async def mult(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
             await update.message.reply_text(f'{x} * {y} = {c}')
     else:
         await update.message.reply_text(f'Данные введены не корректно.')
+
+async def div(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    log_bro(update, context)
+    msg = update.message.text
+    print(msg)
+    items = msg.split() 
+    if check_data_user(items) == True:
+        if len(items) == 3:
+            x = check_data_type(items[1])
+            # Проверка на 0 в знаменателе будет прямо тут
+            if check_data_type(items[2]) != 0:
+                y = check_data_type(items[2])
+                await update.message.reply_text(f'{x} * {y} = {round(x/y, 4)}')
+            else:
+                await update.message.reply_text('Вы ввели 0 в знаменатель, попробуйте еще раз')
+        else:
+            x = complex(check_data_type(items[1]), check_data_type(items[2]))
+            # Проверка на нули во второй пачке чисел для комплексных чисел
+            if check_data_type(items[3]) != 0 or check_data_type(items[4]) != 0:
+                y = complex(check_data_type(items[3]), check_data_type(items[4]))
+                c = complex(x/y)
+                await update.message.reply_text(f'{x} * {y} = {c}')
+            else:
+                await update.message.reply_text('Вы ввели оба значения второго комплексного числа равное 0. Попробуйте еще раз')
+    else:
+        await update.message.reply_text(f'Данные введены не корректно.')
+
+async def sqrt(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    log_bro(update, context)
+    msg = update.message.text
+    print(msg)
+    items = msg.split() 
+    if check_data_user(items) == True:
+        if len(items) == 3:
+            x = check_data_type(items[1])
+            y = check_data_type(items[2])
+            await update.message.reply_text(f'{x}^{y} = {round(x**y, 4)}')
+    elif check_data_user_2(items):
+        x = complex(check_data_type(items[1]), check_data_type(items[2]))
+        y = check_data_type(items[3])
+        c = x**y
+        await update.message.reply_text(f'{x}^{y} = {c}')
+    else:
+        await update.message.reply_text(f'Данные введены не корректно.')
+
 # async def help_bro(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 #     log_bro(update, context)
 #     await update.message.reply_text(f'/hi\n/time\n/help')
