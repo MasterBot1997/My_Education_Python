@@ -432,3 +432,15 @@
 13-02-2023 22:07:32 - check_list - INFO - check_last_id - Последний id - 17
 13-02-2023 22:07:34 - check_list - INFO - check_last_id - Последний id - 17
 13-02-2023 22:07:43 - user_interface - INFO - menu - Завершение программы.
+30-04-2023 18:26:30 - main - INFO - <module> - Start program
+30-04-2023 18:26:30 - user_interface - INFO - menu - Программа запущенна.
+30-04-2023 18:26:30 - check_list - INFO - check_last_id - Последний id - 17
+30-04-2023 18:26:37 - check_list - INFO - check_last_id - Последний id - 17
+30-04-2023 18:26:46 - check_list - WARNING - check_key - Введен несуществующий параметр
+30-04-2023 18:26:48 - check_list - INFO - check_last_id - Последний id - 17
+30-04-2023 18:27:16 - user_interface - INFO - menu - Завершение программы.
+30-04-2023 18:29:48 - main - INFO - <module> - Start program
+30-04-2023 18:29:48 - user_interface - INFO - menu - Программа запущенна.
+30-04-2023 18:29:48 - check_list - INFO - check_last_id - Последний id - 17
+30-04-2023 18:29:55 - check_list - INFO - check_last_id - Последний id - 17
+30-04-2023 18:30:19 - user_interface - INFO - menu - Завершение программы.
